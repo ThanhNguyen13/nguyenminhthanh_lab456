@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1AF2AD44-8D28-42A2-9D00-45CA98B2B5C1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab456/Views/Account/ExternalLoginConfirmation.cshtml">
+    <Files>
+      <File FileName="Lab456/Models/AccountViewModels.cs" Line="4" Column="17" />
+      <File FileName="Lab456/Views/_ViewStart.cshtml" />
+      <File FileName="Lab456/Views/Web.config" />
+      <File FileName="Lab456/Models/Course.cs" Line="1" Column="1" />
+      <File FileName="Lab456/Models/ManageViewModels.cs" Line="1" Column="1" />
+      <File FileName="Lab456/Views/Account/_ExternalLoginsListPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Lab456/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="Lab456/Models/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="Lab456/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="Lab456/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="Lab456/Views/Account/ConfirmEmail.cshtml" Line="1" Column="1" />
+      <File FileName="Lab456/Views/Account/ExternalLoginConfirmation.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab456" expanded="True">
+            <Node name="Lab456" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="ExternalLoginConfirmation.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab456 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
